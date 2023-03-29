@@ -1,0 +1,25 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.Test Saving Wiki Articles :: To validate the Login form                 
+==============================================================================
+End To End Topic Search/Bookmark Validation                             
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  /Users/zacharysanchez/PycharmProjects/WikiRobotFrame/tests/test_saving_wiki_articles.robot:29
+    T:  End To End Topic Search/Bookmark Validation    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  /Users/zacharysanchez/PycharmProjects/WikiRobotFrame/tests/test_saving_wiki_articles.robot:34
+      Search Topics And Save To Watchlist    ${topic_list}
+      |  ${topic_list} = ['Francisco Goya', 'Spain', 'Modern art'] (list)
+______________________________________________________________________________
+| FAIL |
+Element 'xpath://ul/li[@id='ca-watch']/a' did not appear in 20 seconds.
+------------------------------------------------------------------------------
+Tests.Test Saving Wiki Articles :: To validate the Login form         | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Tests                                                                 | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  /Users/zacharysanchez/PycharmProjects/WikiRobotFrame/tests/pabot_results/1/output.xml

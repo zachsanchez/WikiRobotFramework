@@ -1,0 +1,14 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.Test Saving Wiki Articles :: To validate the Login form                 
+==============================================================================
+Verify Unsuccessful Login                                             | PASS |
+------------------------------------------------------------------------------
+Tests.Test Saving Wiki Articles :: To validate the Login form         | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  /Users/zacharysanchez/PycharmProjects/WikiRobotFrame/tests/pabot_results/0/output.xml
